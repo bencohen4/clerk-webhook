@@ -1,0 +1,6 @@
+Starting log:
+ - Time: 2023-10-06T01:58:57.972Z
+ - Name: updateCheck (updatecheck)
+ - Command: yarn
+ - Arguments: node /Users/bencohen/Documents/Coding/clerk-webhook/node_modules/@redwoodjs/cli/dist/lib/updateCheckExecute.js
+
